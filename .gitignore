@@ -1,3 +1,6 @@
+# secret key file
+pch_project/secrets.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
